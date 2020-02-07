@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Работен плот\it-kariera\11 klas\Modul 7\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел-20190710\ConsoleMVC\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.exe.config
+C:\Users\user\OneDrive\Работен плот\it-kariera\11 klas\Modul 7\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел-20190710\ConsoleMVC\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.exe
+C:\Users\user\OneDrive\Работен плот\it-kariera\11 klas\Modul 7\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел-20190710\ConsoleMVC\ConsoleMVC\ConsoleMVC\bin\Debug\ConsoleMVC.pdb
+C:\Users\user\OneDrive\Работен плот\it-kariera\11 klas\Modul 7\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел-20190710\ConsoleMVC\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Работен плот\it-kariera\11 klas\Modul 7\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел-20190710\ConsoleMVC\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Работен плот\it-kariera\11 klas\Modul 7\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел-20190710\ConsoleMVC\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.exe
+C:\Users\user\OneDrive\Работен плот\it-kariera\11 klas\Modul 7\1.Увод-в-разработката-на-софтуер-Преглед-на-трислойния-модел-20190710\ConsoleMVC\ConsoleMVC\ConsoleMVC\obj\Debug\ConsoleMVC.pdb
